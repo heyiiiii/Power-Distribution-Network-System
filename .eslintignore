@@ -1,0 +1,21 @@
+# /node_modules/* and /bower_components/* ignored by default
+
+# Nuxt build
+.nuxt
+build
+dist
+config
+node_modules
+vendor
+vmscript.js
+static/
+# System
+.idea/
+.eslintrc.js
+.svn
+*.log
+*.error
+preview.html
+assets/js/map
+static/pdf/*
+

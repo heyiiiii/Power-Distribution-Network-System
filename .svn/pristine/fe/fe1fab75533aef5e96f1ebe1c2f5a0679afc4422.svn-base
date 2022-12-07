@@ -1,0 +1,41 @@
+{
+  "baseUrl": "",
+  "guid": "asc.{A2F8A3DB-A83E-4A64-9E10-13675B4B9103}",
+  "name": "签章",
+  "variations": [
+    {
+      "buttons": [
+        {
+          "text": "OK",
+          "primary": true
+        },
+        {
+          "text": "Cancel",
+          "primary": false
+        }
+      ],
+      "description": "stamp",
+      "EditorsSupport": [
+        "word",
+        "cell",
+        "slide"
+      ],
+      "icons": [
+        "stamp.png",
+        "stamp@2x.png"
+      ],
+      "initData": "",
+      "initDataType": "ole",
+      "initOnSelectionChanged": true,
+      "isDisplayedInViewer": true,
+      "isInsideMode": false,
+      "isModal": true,
+      "isSystem": false,
+      "isUpdateOleOnResize": true,
+      "isViewer": false,
+      "isVisual": true,
+      "url": "index.html"
+    }
+  ]
+}
+

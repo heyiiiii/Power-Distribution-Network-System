@@ -1,0 +1,41 @@
+{
+  "baseUrl": "",
+  "guid": "asc.{A2D8A3DB-A83E-4A64-9E10-13675B4B9103}",
+  "name": "签名",
+  "variations": [
+    {
+      "buttons": [
+        {
+          "text": "OK",
+          "primary": true
+        },
+        {
+          "text": "Cancel",
+          "primary": false
+        }
+      ],
+      "description": "sign",
+      "EditorsSupport": [
+        "word",
+        "cell",
+        "slide"
+      ],
+      "icons": [
+        "sign.png",
+        "sign@2x.png"
+      ],
+      "initData": "",
+      "initDataType": "ole",
+      "initOnSelectionChanged": true,
+      "isDisplayedInViewer": true,
+      "isInsideMode": false,
+      "isModal": true,
+      "isSystem": false,
+      "isUpdateOleOnResize": true,
+      "isViewer": false,
+      "isVisual": true,
+      "url": "index.html"
+    }
+  ]
+}
+
