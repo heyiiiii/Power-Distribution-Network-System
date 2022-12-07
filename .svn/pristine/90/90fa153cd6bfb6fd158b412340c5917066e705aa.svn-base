@@ -1,6 +1,0 @@
-<cim:LineProtection::演示>
-@Num	mRID	name	breakerID	line	val01	val02	val03	t1	t2	t3 val012	val022	val032
-//序号	标识	名称	描述	关联开关	相间I段动作定值 相间II段动作定值	零序电流动作定值	相间I段动作时间	相间II段动作时间	零序电流动作时间 相间I段动作二次值 相间II段动作二次值	零序电流动作二次值
-{{ each params val index }}#{{ index + 1 }} {{ val.id }} {{ val.name }} {{ val.description }} {{ val.breakerSvg }} {{ val.val01 }} {{ val.val02 }} {{ val.val03 }} {{ val.t1 }} {{ val.t2 }} {{ val.t3 }} {{ val.val012 }} {{ val.val022 }} {{ val.val032 }}
-{{ /each }}
-</LineProtection::演示>
